@@ -1,0 +1,21 @@
+Package: helpRfunctions
+Title: Collection of personal helper functions
+Version: 0.0.1
+Authors@R: 
+    person(given = "Dennis",
+           family = "Grothe"
+           email = "dennis.grothe@uni-bielefeld.de"
+Description: This package is a loose collection of my personal helper functions to effortlessly import them every time I use them.
+License: use_mit_license()
+Imports: 
+    cli,
+    crayon,
+    dplyr,
+    glue,
+    purrr,
+    rstudioapi,
+    tibble
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2

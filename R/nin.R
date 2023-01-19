@@ -1,0 +1,4 @@
+#' @export
+#'
+
+'%nin%' <- Negate('%in%')

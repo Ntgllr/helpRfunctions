@@ -3,9 +3,11 @@ Title: Collection of personal helper functions
 Version: 0.0.1
 Authors@R: 
     person(given = "Dennis",
-           family = "Grothe"
-           email = "dennis.grothe@uni-bielefeld.de"
-Description: This package is a loose collection of my personal helper functions to effortlessly import them every time I use them.
+           family = "Grothe",
+           role = c("aut", "cre"),
+           email = "dennis.grothe@uni-bielefeld.de",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package is a loose collection of my personal helper functions to effortlessly import them when I need to.
 License: use_mit_license()
 Imports: 
     cli,

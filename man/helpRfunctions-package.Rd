@@ -4,12 +4,12 @@
 \name{helpRfunctions-package}
 \alias{helpRfunctions}
 \alias{helpRfunctions-package}
-\title{helpRfunctions: What the Package Does (One Line, Title Case)}
+\title{helpRfunctions: Collection of personal helper functions}
 \description{
-What the package does (one paragraph).
+This package is a loose collection of my personal helper functions to effortlessly import them when I need to.
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Dennis Grothe \email{dennis.grothe@uni-bielefeld.de} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
 }
 \keyword{internal}

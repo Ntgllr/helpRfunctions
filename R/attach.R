@@ -1,6 +1,6 @@
 core_unloaded <- function() {
-  search <- paste0("package:", core)
-  core[!search %in% search()]
+  search_path <- paste0("package:", core)
+  core[!search_path %in% search()]
 }
 
 # Attach the package from the same package library it was
